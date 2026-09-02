@@ -45,7 +45,5 @@ The main focus areas include:
 16. Learning Objectives
 
 If you find this repository useful for learning SQL, feel free to **star ⭐ the repository** and explore the examples.
-
 ---
-
 **Thank you for visiting this repository!**
